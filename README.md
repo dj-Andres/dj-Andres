@@ -1,4 +1,11 @@
-### Hola, soy Diego Jimenez 👋
+### Hola, Diego Jimenez 👋
+
+### Tengo 23 años de edad, desarrollador Entorno Escritorio/Web de Ecuador.
+<br/>
+<a href="https://www.linkedin.com/in/diego-jimenez-55626316b/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 ### <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> Un poco más sobre mí ...  
 
