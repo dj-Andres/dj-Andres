@@ -1,5 +1,14 @@
 ### Hola, soy Diego Jimenez 👋
 
+### <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> Un poco más sobre mí ...  
+
+```javascript
+const Diego = {
+  code: [Javascript, HTML, CSS, PHP, C#, Visual Basic 6],
+  tools: [React, Node, .NET],
+  
+```
+
 <!--
 **dj-Andres/dj-Andres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
