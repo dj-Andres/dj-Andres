@@ -1,4 +1,4 @@
-### Hola, Diego Jimenez 👋
+### Hola soy, Diego Jimenez 👋
 
 ### Tengo 23 años de edad, desarrollador Entorno Escritorio/Web de Ecuador.
 <br/>
