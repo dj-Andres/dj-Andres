@@ -1,6 +1,9 @@
 ### Hola soy, Diego Jimenez 👋
 
-### Tengo 24 años de edad, desarrollador Entorno Escritorio/Web de Ecuador.
+### Soy Analista Programador me gusta emprender nuevos retos y aprender de los mismos.
+
+### 
+
 <br/>
 <a href="https://www.linkedin.com/in/diego-jimenez-55626316b/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,12 +14,10 @@
 
 ```javascript
 const Diego = {
-  code: [Javascript, HTML, CSS, PHP, C#, Visual Basic 6],
-  tools: [React, Node, .NET],
+  code: [Javascript, PHP - Laravel , C# - .NET]
   
 ```
 
-<!--
 **dj-Andres/dj-Andres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
